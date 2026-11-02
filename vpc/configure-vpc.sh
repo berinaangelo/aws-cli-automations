@@ -10,6 +10,8 @@ REGION="ap-southeast-2"
 VPC_CIDR="10.0.0.0/16"
 PUBLIC_SUBNET_CIDR="10.0.1.0/24"
 PRIVATE_SUBNET_CIDR="10.0.2.0/24"
+
+# change this as you setup
 PROJECT_NAME="my-trial-vpc"
 
 echo "=================================================="
